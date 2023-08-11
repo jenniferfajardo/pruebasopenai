@@ -1,0 +1,8 @@
+prompt,completion
+1: No. contrato\n2: contrato\nResp:, El No. de contrato vigentes es END
+1: coordinador\nResp:, El nombre del coordinador del programa es END
+1: fecha emisión\nResp:, La fecha de emisión del documento es END
+1: quien radica el documento\nResp:, El nombre de la persona que radica el documento es END
+1: hasta cuando va el contrato\nResp:, El contrato \n va hasta END
+1: hasta cuando trabajara el empleado \nResp:, El empleado trabajará hasta END
+1: a quien agradece el empleado\nResp:, El empleado \n agradece a  END
